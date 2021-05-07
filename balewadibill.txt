@@ -1,0 +1,106 @@
+Name: Vijay Waidande (WMH-01)
+Company Name: Everest Spices
+Beat - Balewadi, Pune (Samarth Enterprises)
+Date - 2021-04-23
+Shop Name: AGREZ FOODS
+Address: SHOP NO 5 MOTIDEEP BUILDING
+Contact No: 9595039333
+
+AMCHUR POWDER-50
+Unit Price:     38.23
+Qty.:     50(Pcs), Value:     1911.5
+
+SAFFRON-1
+Unit Price:     245.0
+Qty.:     50(Pcs), Value:     12250.0
+
+Shop's Quantity    100(Pcs)
+Shop's Order Value    14161.50
+Shop's Net Order Value    14161.50
+
+---------------------------------------------------
+
+Beat - Balewadi, Pune (Samarth Enterprises)
+Date - 2021-04-23
+Shop Name: MATAJI TRADERS
+Address: BANNER BALEWADI ROAD
+Contact No: 9960738859
+
+SAFFRON-1
+Unit Price:     245.0
+Qty.:     50(Pcs), Value:     12250.0
+
+SAFFRON-0.5
+Unit Price:     120.45
+Qty.:     50(Pcs), Value:     6022.5
+
+Shop's Quantity    100(Pcs)
+Shop's Order Value    18272.50
+Shop's Net Order Value    18272.50
+
+---------------------------------------------------
+
+Beat - Balewadi, Pune (Samarth Enterprises)
+Date - 2021-04-23
+Shop Name: NILAM FRESH MART
+Address: SOPAN BAG NEAR BY K K BAJAR
+Contact No: 8605923034
+
+YELLOW HING-25
+Unit Price:     42.3
+Qty.:     0(Pcs), Value:     0.0
+50 pieces less.
+
+YELLOW HING-50
+Unit Price:     62.0
+Qty.:     50(Pcs), Value:     3100.0
+
+Shop's Quantity    50(Pcs)
+Shop's Order Value    3100.00
+Shop's Net Order Value    3100.00
+
+---------------------------------------------------
+Total Quantity   1110.0(Pcs)
+Total Value    103931.1
+Total Net Value    103931.1
+Beat - Balewadi, Pune (Samarth Enterprises)
+Date - 2021-04-23
+Shop Name: AGREZ FOODS
+Address: SHOP NO 5 MOTIDEEP BUILDING
+Contact No: 9595039333
+
+AMCHUR POWDER-50
+Unit Price:     38.23
+Qty.:     50(Pcs), Value:     1911.5
+
+CHAAT MASALA-25
+Unit Price:     13.2
+Qty.:     0(Pcs), Value:     0.0
+50 pieces less.
+
+Shop's Quantity    50(Pcs)
+Shop's Order Value    1911.50
+Shop's Net Order Value    1911.50
+
+---------------------------------------------------
+Total Quantity   1110.0(Pcs)
+Total Value    103931.1
+Total Net Value    103931.1
+Beat - Balewadi, Pune (Samarth Enterprises)
+Date - 2021-04-23
+Shop Name: POOJA SUPER SHOPPE
+Address: MAROUTI MANDIR VISHAL APPRMENT
+Contact No: 9096975569
+
+SAFFRON-1
+Unit Price:     245.0
+Qty.:     50(Pcs), Value:     12250.0
+
+Shop's Quantity    50(Pcs)
+Shop's Order Value    12250.00
+Shop's Net Order Value    12250.00
+
+---------------------------------------------------
+Total Quantity   1110.0(Pcs)
+Total Value    103931.1
+Total Net Value    103931.1
